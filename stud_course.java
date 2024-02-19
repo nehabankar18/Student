@@ -1,4 +1,4 @@
-package jenkinassignment;
+
 
 public class stud_course extends student {
     void course()
