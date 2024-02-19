@@ -1,4 +1,4 @@
-package jenkinassignment;
+
 public class student {
     public void stud_det()
     {
